@@ -89,8 +89,9 @@ This results in a four stage pipeline looking like this:
             - Looks close to Bicubic, but preserves edges way better.
     Notices:
     ```
-    If you are not going for a pixel art look, you'll have to give the BUR_2_Upscaling an antialiased input for good results. 
-    It doesn't really matter if you use the games AA or some ReShade AA shader.
+    If you are not going for a pixel art look, you'll have to give the BUR_2_Upscaling 
+    an antialiased input for good results. It doesn't really matter 
+    if you use the games AA or some ReShade AA shader.
     ```
 
 4. Other Shaders
