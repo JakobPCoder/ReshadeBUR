@@ -17,7 +17,7 @@
  *
  * --------------------------------------------------------------------------------------------------
  *
- *              Copyright (C) 2024 Jakob Wapenhensch 
+ *              Copyright © 2024 Jakob Wapenhensch 
  *
  * This code is part of the BUR (Bad Upscaling Replacer) project.
  * BUR is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. 
