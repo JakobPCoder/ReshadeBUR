@@ -10,7 +10,8 @@
 **Copyright © 2024 Jakob Wapenhensch: [LICENSE](other_file.md)**
 
 # TL;DR
-BUR (Bad Upscaling Replacer) is a ReShade shader that improves the quality of spatial upscaling in games. It is only effective for games that offer resolution scaling but only apply basic bilinear or bicubic upscaling, such as Battlefield 4, Metro 2033 Redux, and Paladins. However, it is unnecessary for games that already include advanced upscaling techniques like DLSS, FSR, or Temporal Super Sampling/Reconstruction.
+ReShade shader that enhances spatial upscaling in games offering resolution scaling but applying only basic bilinear or bicubic upscaling, such as Battlefield 4, Metro 2033 Redux, and Paladins. Not compatible with selecting a lower than native main resolution; Effective only with resolution scale and SSAA below 1.0x or general subsampling. Unnecessary for games with advanced upscaling like DLSS, FSR, or Temporal Super Sampling/Reconstruction.
+Also allows for the execution of shader effects before the upscaling step.
 
 ## What it is
 BUR is a [ReShade](reshade.me) shader is meant to do two things:

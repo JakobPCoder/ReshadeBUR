@@ -17,7 +17,7 @@
  *
  * --------------------------------------------------------------------------------------------------
  *
- *              Copyright (C) 2024 Jakob Wapenhensch 
+ *              Copyright © 2024 Jakob Wapenhensch 
  *
  * This code is part of the BUR (Bad Upscaling Replacer) project.
  * BUR is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. 
@@ -278,7 +278,6 @@ float3 FsrEasuF(
     // Anisotropic length after rotation,
     //  x := 1.0 lerp to 'stretch' on edges
     //  y := 1.0 lerp to 2x on edges
-
     float2 len2 = float2(1.0 + (stretch - 1.0) * len, 1.0 - 0.5 * len);
 
     // Based on the amount of 'edge',
