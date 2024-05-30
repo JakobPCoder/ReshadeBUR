@@ -126,3 +126,9 @@ of the value you used for the ingame resolution scale.
 - https://imgsli.com/MjY4NDA0
 - https://imgsli.com/MjY4NDAz
 - https://imgsli.com/MjY4MTQw
+
+# Credis
+```
+ Thanks to "goingdigital" from shadertoy, for his hlsl ports of the AMD EASU and RCAS (FSR 1)
+ I changed a few things, but the code is mostly stil his: https://www.shadertoy.com/view/stXSWB
+```

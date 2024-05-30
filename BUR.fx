@@ -83,7 +83,7 @@
  *
  * AMD, for their FSR 1 algorithm.
  *
- * "goingdigital" from shadertoy, for his hlsl ports of the AMD EASU and RCAS ports (FSR 1)
+ * "goingdigital" from shadertoy, for his hlsl ports of the AMD EASU and RCAS (FSR 1)
  * I changed a few things, but the code is mostly stil his: https://www.shadertoy.com/view/stXSWB
  *
 **/
