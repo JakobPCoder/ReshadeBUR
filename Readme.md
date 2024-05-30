@@ -39,7 +39,7 @@ Examples for such games are:
 
 ***If you know any more, please let me know so i can list them here.***
 
-You could also just use this shader to test different upsampling methods vs native resolution.
+You could also just use this shader in **any** game, to test different upsampling methods vs native resolution.
 
 ## How it works
 This shader consists of two techniques that both need to be active.
