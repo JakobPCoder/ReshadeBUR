@@ -11,6 +11,16 @@
 ReShade shader that enhances spatial upscaling in games offering resolution scaling but applying only basic bilinear or bicubic upscaling, such as Battlefield 4, Metro 2033 Redux, and Paladins. Not compatible with selecting a lower than native main resolution; Effective only with resolution scale and SSAA below 1.0x or general subsampling. Unnecessary for games with advanced upscaling like DLSS, FSR, or Temporal Super Sampling/Reconstruction.
 Also allows for the execution of shader effects before the upscaling step.
 
+## Preview
+### Videos
+- [Dev Video 1 | "Injecting" shaders before upscaling showcase](https://www.youtube.com/watch?v=xjhcL4uxgV0)
+- [Dev Video 2 | FSR 1.0 vs Bicubic upscaling in Battlefield 4](https://www.youtube.com/watch?v=mfnvm_yH5ik)
+
+### Comparisons
+- https://imgsli.com/MjY4NDA0
+- https://imgsli.com/MjY4NDAz
+- https://imgsli.com/MjY4MTQw
+
 ## What it is
 BUR is a [ReShade](reshade.me) shader is meant to do two things:
 
@@ -120,15 +130,7 @@ of the value you used for the ingame resolution scale.
 - Upscale beyond your native res or make up any new detail.
 - Do real temporal or spatial supersampling.
 
-## Preview
-### Videos
-- [Dev Video 1 | "Injecting" shaders before upscaling showcase](https://www.youtube.com/watch?v=xjhcL4uxgV0)
-- [Dev Video 2 | FSR 1.0 vs Bicubic upscaling in Battlefield 4](https://www.youtube.com/watch?v=mfnvm_yH5ik)
 
-### Comparisons
-- https://imgsli.com/MjY4NDA0
-- https://imgsli.com/MjY4NDAz
-- https://imgsli.com/MjY4MTQw
 
 
 # Credis
