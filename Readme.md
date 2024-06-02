@@ -5,8 +5,6 @@
 
 
 
-
-
 **Copyright © 2024 Jakob Wapenhensch: [LICENSE](LICENSE)**
 
 # TL;DR
@@ -122,10 +120,16 @@ of the value you used for the ingame resolution scale.
 - Upscale beyond your native res or make up any new detail.
 - Do real temporal or spatial supersampling.
 
-## Comparisons
+## Preview
+### Videos
+- [Dev Video 1 | "Injecting" shaders before upscaling showcase](https://www.youtube.com/watch?v=xjhcL4uxgV0)
+- [Dev Video 2 | FSR 1.0 vs Bicubic upscaling in Battlefield 4](https://www.youtube.com/watch?v=mfnvm_yH5ik)
+
+### Comparisons
 - https://imgsli.com/MjY4NDA0
 - https://imgsli.com/MjY4NDAz
 - https://imgsli.com/MjY4MTQw
+
 
 # Credis
 ```
